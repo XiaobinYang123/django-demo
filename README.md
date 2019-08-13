@@ -1,2 +1,2 @@
 # django-demo
-django views, template, post/get request, cookie/session
+django views, template, post/get request, cookie/session, model manager
